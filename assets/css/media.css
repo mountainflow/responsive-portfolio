@@ -1,0 +1,34 @@
+@media only screen and (max-width: 640px) {
+    header {
+        position: static;
+        top: auto;
+        margin-bottom: 10px;
+    }
+
+    section.main {
+        margin: 10px 10px 60px 10px;
+    }
+
+    h1.name {
+        width: 100%;
+    }
+
+    .bioImage {
+        display: block;
+        float: none;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    ul {
+        margin-right: 28%;
+    }
+
+    li {
+        display: inline;
+    }
+}
+
+@media only screen and (max-width: 768px) {}
+
+@media only screen and (max-width: 960px) {}
